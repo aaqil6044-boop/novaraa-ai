@@ -160,4 +160,4 @@ Computer Science & Engineering Student
 Bengaluru, India
 
 * Email: [aaqil6044@gmail.com](mailto:aaqil6044@gmail.com)
-* LinkedIn: Add your LinkedIn profile
+
